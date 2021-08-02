@@ -1,8 +1,8 @@
 # ![pepeSenora](https://cdn.betterttv.net/emote/5a85705d015fa621b3af4b35/2x) Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on a private project, stay tuned!
-- 🌱 I’m currently learning Ktor and some frontend stuff.<!-- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about java.
+- 🔭 I’m currently working on [ktify](https://github.com/warriorzz/ktify).
+- 🌱 I’m currently learning managing kubernetes clusters.<!-- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
+- 💬 Ask me about java and Kotlin.
 - 📫 How to reach me: [Click here](mailto:warriormayer@gmail.com)<!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I make commits more often in a day than I stream in a month.
 
