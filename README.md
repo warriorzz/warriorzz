@@ -8,6 +8,8 @@
 
 You can find my GitHub page [here](https://warriorzz.github.io).
 
-[![warriorzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=warriorzz&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warriorzz&theme=github_dark)
+
+<!-- [![warriorzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=warriorzz&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warriorzz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
