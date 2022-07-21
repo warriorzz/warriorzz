@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning managing kubernetes clusters.<!-- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about java and Kotlin.
 - 📫 How to reach me: [Click here](mailto:warriormayer@gmail.com)<!-- 😄 Pronouns: ...-->
-- ⚡ Fun fact: I make commits more often in a day than I stream in a month.
+<!-- ⚡ Fun fact: I make commits more often in a day than I stream in a month.-->
 
 You can find my GitHub page [here](https://warriorzz.github.io).
 
